@@ -11,7 +11,7 @@ To start this deployment, we will run:
 
 ``` bash
 # Get resources
-git clone --single-branch --branch gh-pages https://github.com/teaching-on-testbeds/k8s-ml.git
+git clone --single-branch --branch gh-pages https://github.com/zuchuandatou/k8s-ml.git
 sudo apt-get update; sudo apt-get -y install siege
 sudo apt update; sudo apt -y install python3-pip # install pip if not already installed
 python3 -m pip install kubernetes
