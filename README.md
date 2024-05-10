@@ -1,6 +1,5 @@
 # Deploy a machine learning model on Kubernetes
 
-Forked and updated from https://github.com/teaching-on-testbeds/k8s-ml/tree/gh-pages
 
 
 
